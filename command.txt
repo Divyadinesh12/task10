@@ -1,0 +1,6 @@
+1.Using pip command create requirement.txt file :
+we can run pip freeze>requirements.txt in the command line to generate a requirements.txtfile
+pip freeze > requirements.txt
+2. using python pip command install the flask module <2.0:
+Type "pip install flask"(without quotes)in the command line and hit enter .this installs flask for your default python installation
+pip install Flask==1.1.2(because install the flask module<2.0)
